@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gazi.KazanMyo.DizilerAppSube2", "Gazi.KazanMyo.DizilerAppSube2\Gazi.KazanMyo.DizilerAppSube2.csproj", "{ADF326C0-A4EE-4D1E-815D-DB809409E895}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADF326C0-A4EE-4D1E-815D-DB809409E895}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADF326C0-A4EE-4D1E-815D-DB809409E895}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADF326C0-A4EE-4D1E-815D-DB809409E895}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADF326C0-A4EE-4D1E-815D-DB809409E895}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3585F218-5D02-4C49-9BC5-755DD4516BF9}
+	EndGlobalSection
+EndGlobal
